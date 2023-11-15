@@ -149,7 +149,7 @@ body{
 
 .card-con .front{
     transform: perspective(600px) rotateY(0deg);
-    box-shadow: 0 5px 10px #000;
+    /*box-shadow: 0 5px 10px #000;*/
 }
 
 .card-con .front{
@@ -239,7 +239,7 @@ form .input-field{
     height: 40px;
     line-height: 45px;
     color: #fff;
-    background: /*rgba(0, 0, 0, .4)*/ var(--color-bg2);
+    background: /*rgba(0, 0, 0, .4)*/ var(--color-primary);
     text-align: center;
 }
 
@@ -247,7 +247,7 @@ form .input-field{
     position: absolute;
     height: 40px;
     width: 100%;
-    background: var(--color-bg2);
+    background: var(--color-primary);
     color: #fff;
     top: 3rem;
     left: 3rem;
@@ -455,7 +455,7 @@ input.control::placeholder{
     
     .card-con .front{
         transform: perspective(600px) rotateY(0deg);
-        box-shadow: 0 5px 10px #000;
+
     }
     
     .card-con .front{
@@ -565,7 +565,7 @@ input.control::placeholder{
     
     .card-con .front{
         transform: perspective(600px) rotateY(0deg);
-        box-shadow: 0 5px 10px #000;
+    
     }
     
     .card-con .front{
@@ -698,7 +698,6 @@ input.control::placeholder{
     
     .card-con .front{
         transform: perspective(600px) rotateY(0deg);
-        box-shadow: 0 5px 10px #000;
     }
     
     .card-con .front{
@@ -848,7 +847,6 @@ input.control::placeholder{
     
     .card-con .front{
         transform: perspective(600px) rotateY(0deg);
-        box-shadow: 0 5px 10px #000;
     }
     
     .card-con .front{
@@ -1039,7 +1037,6 @@ input.control::placeholder{
     
     .card-con .front{
         transform: perspective(600px) rotateY(0deg);
-        box-shadow: 0 5px 10px #000;
     }
     
     .card-con .front{
@@ -1147,7 +1144,6 @@ input.control::placeholder{
     
     .card-con .front{
         transform: perspective(600px) rotateY(0deg);
-        box-shadow: 0 5px 10px #000;
     }
     
     .card-con .front{
